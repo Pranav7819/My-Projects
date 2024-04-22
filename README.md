@@ -1,2 +1,13 @@
-# My-Projects
-A comprehensive project integrating machine learning algorithms for data analysis, a database management system with SQL for data storage and retrieval, and web development technologies for building dynamic and interactive web applications.
+# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+
+## Overview of Weather App
+
+It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
+
+The app is created by [Pranav Sunil Deore](https://www.linkedin.com/in/deorepranav/) for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
+
+
+
+
+![WeatherApp](https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png)
+
